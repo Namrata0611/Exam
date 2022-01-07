@@ -1,0 +1,16 @@
+.conitainer {
+  color: white;
+  background: gray;
+}
+
+.head {
+  height: 20px;
+}
+
+.input {
+  text-align: left;
+}
+
+.input1 {
+  text-align: right;
+}
